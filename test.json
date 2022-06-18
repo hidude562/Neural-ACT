@@ -1,0 +1,172 @@
+{
+    "quiz": {
+        "reasoning": {
+            "lvl1": {
+                "questions": [{
+                    "question": "What is the capital of France",
+                    "answer": "Paris"
+                }, {
+                    "question": "Who was the first President of the United States?",
+                    "answer": "George Washington"
+                }, {
+                    "question": "What year did the first man land on the moon?",
+                    "answer": "1969"
+                }, {
+                    "question": "How many states are in the United States?",
+                    "answer": ["Fifty", "50"]
+                }, {
+                    "question": "What is 2+2?",
+                    "answer": ["Four", "4"]
+                }, {
+                    "question": "What is the tallest mountain in the world?",
+                    "answer": "Everest"
+                }, {
+                    "question": "Who was the first person to walk on the moon?",
+                    "answer": "Armstrong"
+                }, {
+                    "question": "Which is the largest ocean in the world?",
+                    "answer": "Pacific"
+                }, {
+                    "question": "What is the biggest planet in our solar system?",
+                    "answer": "Jupiter"
+                }, {
+                    "question": "How many continents are there in the world?",
+                    "answer": ["Seven", "7"]
+                }, {
+                    "question": "What is the name of the biggest desert in the world?",
+                    "answer": "Sahara"
+                }, {
+                    "question": "What is the capital city of China?",
+                    "answer": "Beijing"
+                }, {
+                    "question": "How many bones are there in the human body?",
+                    "answer": "206"
+                }, {
+                    "question": "How many planets are there in our solar system?",
+                    "answer": ["Eight", "8"]
+                }, {
+                    "question": "What is the biggest country in the world by population?",
+                    "answer": "China"
+                }, {
+                    "question": "How many hours are there in a day?",
+                    "answer": ["Twenty-four", "Twenty four", "24"]
+                }, {
+                    "question": "What is the biggest country in the world?",
+                    "answer": "Russia"
+                }, {
+                    "question": "What is the third month of the year?",
+                    "answer": "March"
+                }, {
+                    "question": "What is the name of the world's longest river?",
+                    "answer": "Nile"
+                }, {
+                    "question": "What is the hottest planet in our solar system?",
+                    "answer": "Venus"
+                }, {
+                    "question": "What is the capital city of Germany?",
+                    "answer": "Berlin"
+                }, {
+                    "question": "How many days are there in a year?",
+                    "answer": "365"
+                }, {
+                    "question": "How many sides does a square have?",
+                    "answer": ["Four", "4"]
+                }, {
+                    "question": "How many sides does a triangle have?",
+                    "answer": ["Three", "3"]
+                }, {
+                    "question": "What is the capital city of India?",
+                    "answer": "New Delhi"
+                }, {
+                    "question": "What is the capital city of Italy?",
+                    "answer": "Rome"
+                }, {
+                    "question": "Where is the Empire State Building located?",
+                    "answer": "New York"
+                }, {
+                    "question": "What is the smallest country in the world?",
+                    "answer": "Vatican"
+                }, {
+                    "question": "What is the smallest planet in our solar system?",
+                    "answer": "Mercury"
+                }, {
+                    "question": "How many rings does the Olympic flag have?",
+                    "answer": ["Five", "5"]
+                }, {
+                    "question": "How many players are there in a baseball team?",
+                    "answer": ["Nine", "9"]
+                }, {
+                    "question": "What is the name of the highest mountain in Japan?",
+                    "answer": "Mount Fuji"
+                }, {
+                    "question": "What is the capital city of Spain?",
+                    "answer": "Madrid"
+                }, {
+                    "question": "How many strings does a cello have?",
+                    "answer": ["Four", "4"]
+                }, {
+                    "question": "What is the capital city of Russia?",
+                    "answer": "Moscow"
+                }, {
+                    "question": "How many colors are there in a rainbow?",
+                    "answer": ["Seven", "7"]
+                }, {
+                    "question": "What is the name of the largest active volcano in the world?",
+                    "answer": "Mauna Loa"
+                }, {
+                    "question": "What is the capital city of Australia?",
+                    "answer": "Canberra"
+                }, {
+                    "question": "How many strings does a violin have?",
+                    "answer": ["Four", "4"]
+                }, {
+                    "question": "Who painted the Mona Lisa?",
+                    "answer": ["Leonardo", "Vinci"]
+                }, {
+                    "question": "Which is the longest bone in the human body?",
+                    "answer": "Femur"
+                }, {
+                    "question": "What is the longest river in the United States?",
+                    "answer": "Mississippi"
+                }, {
+                    "question": "How many strings does a guitar have?",
+                    "answer": ["Six", "6"]
+                }, {
+                    "question": "What is the largest lake in the world?",
+                    "answer": "Caspian"
+                }, {
+                    "question": "What is the capital city of Canada?",
+                    "answer": "Ottawa"
+                }, {
+                    "question": "How many stars are there on the American flag?",
+                    "answer": ["Fifty", "50"]
+                }, {
+                    "question": "How many legs does a spider have?",
+                    "answer": ["Eight", "8"]
+                }, {
+                    "question": "What is the national animal of America?",
+                    "answer": "Eagle"
+                }, {
+                    "question": "How many sides does a hexagon have?",
+                    "answer": ["Six", "6"]
+                }, {
+                    "question": "What city is the Taj Mahal located in?",
+                    "answer": "Agra"
+                }, {
+                    "question": "How many wheels are there on a unicycle?",
+                    "answer": ["One", "1"]
+                }, {
+                    "question": "What is the fastest land animal in the world?",
+                    "answer": "Cheetah"
+                }, {
+                    "question": "What color is a bubblegum?",
+                    "answer": "Pink"
+                }, {
+                    "question": "Which is the highest waterfall in the world?",
+                    "answer": "Angel"
+                }
+                ]
+            }
+        }
+    }
+}
