@@ -29,9 +29,9 @@ Level 3:
 <br><br>
 Level 4:
 <br>
-<b>Q:</b> What is the third tallest building in Cincinnati, Ohio?
+<b>Q:</b> What year was the game "Civilization Revolution" released?
 <br>
-<b>A:</b> PNC tower
+<b>A:</b> 2008
 <br><br>
 
 <b>Logical Reasoning</b>:
@@ -62,4 +62,3 @@ Level 4:
 <br><br>
 
 # How to use it
-Download
