@@ -62,3 +62,4 @@ Level 4:
 <br><br>
 
 # How to use it
+<a href="PLACEHOLDER">Click here</a> for a colab demo with GPT-2 taking the test. To evaulate your own model, edit the "get_ai_guess()" function and return your AI's text (do not include the prompt).
