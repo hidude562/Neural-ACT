@@ -61,5 +61,27 @@ Level 4:
 <b>A:</b> Dutch
 <br><br>
 
+
+<b>Complex object visualization</b>:
+<br>
+Level 1:
+<br>
+<b>Q:</b> What colors are the McDonalds logo?
+<br>
+<b>A:</b> Red / Yellow
+<br><br>
+Level 2:
+<br>
+<b>Q:</b> How many holes does a torus have?
+<br>
+<b>A:</b> One
+<br><br>
+Level 3:
+<br>
+<b>Q:</b> What character is to the right of the letter J on a QWERTY keyboard?
+<br>
+<b>A:</b> K
+<br><br>
+
 # How to use it
 <a href="https://colab.research.google.com/drive/1ySa5PC0ZnjBFC_TQiXyBf3kJmP-JaziN?usp=sharing">Click here</a> for a colab demo with GPT-2 taking the test. To evaulate your own model, edit the "get_ai_guess()" function and return your AI's text (do not include the prompt).
